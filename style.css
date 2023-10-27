@@ -3,4 +3,10 @@ button {
 	width: 400px;
 }
 
-p#certo
+.certo {
+color: green;
+}
+
+.erro {
+color: red;
+}
