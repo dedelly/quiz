@@ -1,12 +1,9 @@
 button {
 	height: 50px;
-	width: 400px;
+	width: 300px;
 }
 
 .certo {
-color: green;
+font-color: green;
 }
 
-.erro {
-color: red;
-}
